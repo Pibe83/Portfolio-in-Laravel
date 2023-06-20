@@ -74,28 +74,28 @@
   <div id="dropdownMenu" class="absolute hidden bg-white rounded-lg shadow-md mt-2 w-full">
     <ul class="divide-y divide-gray-200 flex flex-wrap justify-center">
       <li class="px-4 py-2 flex items-center">
-        <img class="w-8 h-8 rounded-full mr-2" src="path/to/image1.jpg" alt="Immagine 1">
-        <span class="text-center">Immagine 1</span>
+        <img class="w-40 h-20  mr-2" src="/immages/html.png" alt="Immagine 1">
+        <span class="text-center">HTML</span>
       </li>
       <li class="px-4 py-2 flex items-center">
-        <img class="w-8 h-8 rounded-full mr-2" src="path/to/image2.jpg" alt="Immagine 2">
-        <span>Immagine 2</span>
+        <img class="w-40 h-20  mr-2" src="/immages/cert1.jpg" alt="Immagine 2">
+        <span>CSS</span>
       </li>
       <li class="px-4 py-2 flex items-center">
-        <img class="w-8 h-8 rounded-full mr-2" src="path/to/image1.jpg" alt="Immagine 1">
-        <span class="text-center">Immagine 1</span>
+        <img class="w-40 h-20  mr-2" src="/immages/javascript.png" alt="Immagine 1">
+        <span class="text-center">JAVASCRIPT</span>
       </li>
       <li class="px-4 py-2 flex items-center">
-        <img class="w-8 h-8 rounded-full mr-2" src="path/to/image1.jpg" alt="Immagine 1">
-        <span class="text-center">Immagine 1</span>
+        <img class="w-40 h-20  mr-2" src="/immages/bootstrap.png" alt="Immagine 1">
+        <span class="text-center">BOOTSTRAP</span>
       </li>
       <li class="px-4 py-2 flex items-center">
-        <img class="w-8 h-8 rounded-full mr-2" src="path/to/image1.jpg" alt="Immagine 1">
-        <span class="text-center">Immagine 1</span>
+        <img class="w-40 h-20  mr-2" src="/immages/react-av.png" alt="Immagine 1">
+        <span class="text-center">REACT</span>
       </li>
       <li class="px-4 py-2 flex items-center">
-        <img class="w-8 h-8 rounded-full mr-2" src="path/to/image1.jpg" alt="Immagine 1">
-        <span class="text-center">Immagine 1</span>
+        <img class="w-40 h-20  mr-2" src="/immages/typescript.png" alt="Immagine 1">
+        <span class="text-center">TYPESCRIPT</span>
       </li>
       <!-- Aggiungi ulteriori elementi li per ogni immagine -->
     </ul>
